@@ -30,7 +30,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,java,go&perline=6" alt="My Skills">
 </p>
-<!--START_SECTION:activity-->
+
+START_SECTION:activity
+
 <!-- Connect with Me -->
 <h3 align="center">Connect with Me</h3>
 <p align="center">
