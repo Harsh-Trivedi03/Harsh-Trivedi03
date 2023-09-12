@@ -11,18 +11,29 @@
 <p align="center">
   🌍 Located in Gujarat, India
 </p>
+
+
 <p align="center">
   🎓 Studying Bachelors of Technology (Second Year)
 </p>
 
+
 <!-- Fields of Expertise -->
 <h3 align="center">Areas of Expertise</h3>
 <p align="center">
-  💡 Python-Django, Java <br>
+  💡 Docker, Git, Python-Django, Java  <br>
   ⚙️ Kubernetes and Cloud-Native Technologies <br>
   🌐 Public Speaking and Community work
 </p>
 
+
+
+
+
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Harsh-Trivedi03&show_icons=true&theme=tokyonight" /> 
+ 
+</p>
 
 
 <!-- Skills and Technologies -->
@@ -30,9 +41,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,java,go&perline=6" alt="My Skills">
 </p>
-
-START_SECTION:activity
-
 <!-- Connect with Me -->
 <h3 align="center">Connect with Me</h3>
 <p align="center">
@@ -49,3 +57,8 @@ START_SECTION:activity
     <img src="https://img.shields.io/youtube/follow/harshh_trivedi?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2" alt="Youtube">
   </a>
 </p>
+
+<p align="center">
+<a href="https://www.biodrop.io/Harsh-Trivedi03">Click here to Connect with me!!</a>
+</p>
+
